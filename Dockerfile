@@ -17,6 +17,7 @@ RUN set -ex; \
 	java \
 	vlc \
 	obs \
+	rclone \
         bash \
         net-tools \
         novnc \
