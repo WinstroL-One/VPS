@@ -16,6 +16,7 @@ RUN set -ex; \
         vim \
 	java \
 	vlc \
+	obs \
         bash \
         net-tools \
         novnc \
