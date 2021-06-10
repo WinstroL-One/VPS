@@ -17,6 +17,7 @@ RUN set -ex; \
 	java \
 	vlc \
 	obs \
+	nodejs \
 	rclone \
         bash \
         net-tools \
